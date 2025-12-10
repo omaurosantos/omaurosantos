@@ -35,7 +35,7 @@ GitHub Projects, Notion, Metabase, Git/GitHub, Figma
 
 ## 📌 Projetos em Destaque
 
-- 🔗 [**Mentora**](https://github.com/innocode-solutions/abp_5dsm) — A IA que ajuda a prever o Desempenho e Risco de Evasão para Instituições de Ensino Superior
+- 🔗 [**Mentora**](https://github.com/omaurosantos/Mentora) — A IA que ajuda a prever o Desempenho e Risco de Evasão para Instituições de Ensino Superior
   
   Atuei como **Product Owner** no projeto *Mentora*, uma solução de IA voltada para prever desempenho acadêmico e risco de evasão em Instituições de Ensino Superior. Minhas principais contribuições incluíram:
 
