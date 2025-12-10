@@ -35,9 +35,18 @@ GitHub Projects, Notion, Metabase, Git/GitHub, Figma
 
 ## 📌 Projetos em Destaque
 
-> *(Atualize aqui com seus projetos de Produto e Dados quando quiser)*  
-- 🔗 **Projeto 1** — descrição breve  
-- 🔗 **Projeto 2** — descrição breve  
+- 🔗 [**Mentora**](https://github.com/innocode-solutions/abp_5dsm) — A IA que ajuda a prever o Desempenho e Risco de Evasão para Instituições de Ensino Superior
+  
+  Atuei como **Product Owner** no projeto *Mentora*, uma solução de IA voltada para prever desempenho acadêmico e risco de evasão em Instituições de Ensino Superior. Minhas principais contribuições incluíram:
+
+  - **Definição do problema e compreensão das necessidades das instituições**, transformando requisitos de negócio em hipóteses e objetivos claros para o produto;  
+  - **Estruturação e priorização do backlog**, garantindo foco nas funcionalidades essenciais para um MVP funcional;  
+  - **Criação de histórias de usuário e critérios de aceitação**, assegurando alinhamento entre expectativas do negócio e implementação técnica;  
+  - **Acompanhamento do desenvolvimento end-to-end**, realizando validações contínuas, testes das entregas e ajustes ao longo do ciclo;  
+  - **Apoio na análise de dados**, interpretando resultados do modelo preditivo e traduzindo insights para decisões de produto;  
+  - **Condução de alinhamentos com stakeholders**, facilitando comunicação sobre objetivos, progresso e próximos passos.
+
+  Esse projeto reforçou minha experiência em **produto orientado por dados**, especialmente em contextos de **IA aplicada, análise preditiva e educação**.
 
 ---
 
@@ -46,4 +55,4 @@ Nas horas vagas, gosto de **viajar e explorar novos lugares de moto** — uma da
 
 ---
 
-💬 *Sempre aberto para trocar ideias sobre Produto, Dados e UX!*
+💬 *Sempre aberto para trocar ideias sobre Produto, Dados e claro, um cafezin!* ☕
