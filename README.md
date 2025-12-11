@@ -56,3 +56,12 @@ Nas horas vagas, gosto de **viajar e explorar novos lugares de moto** — uma da
 ---
 
 💬 *Sempre aberto para trocar ideias sobre Produto, Dados e claro, um cafezin!* ☕
+
+---
+<div align="center">
+
+### ⭐️ Obrigado pela visita!
+
+![Profile Views](https://komarev.com/ghpvc/?username=omaurosantos&color=blueviolet&style=for-the-badge)
+
+</div>
