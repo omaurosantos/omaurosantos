@@ -1,4 +1,5 @@
 # 👋 Olá! Eu sou o Mauro Santos
+Meu portfólio: <a href="https://omaurosantos.github.io/my-portfolio/?utm_source=github&utm_medium=readme&utm_campaign=portfolio_github" target="_blank">omaurosantos.github.io/my-portfolio/</a>
 
 ## 🚀 Product Analyst | Product Discovery & Delivery | Marketplace | SQL | Process Automation | Product Ops
 
