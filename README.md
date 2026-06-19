@@ -1,103 +1,77 @@
 # 👋 Olá! Eu sou o Mauro Santos
-Meu portfólio: <a href="https://omaurosantos.github.io/my-portfolio/?utm_source=github&utm_medium=readme&utm_campaign=portfolio_github" target="_blank">omaurosantos.github.io/my-portfolio/</a>
 
-## 🚀 Product Analyst | Product Discovery & Delivery | Marketplace | SQL | Process Automation | Product Ops
+🎯 Product Owner </br>
+🎓 Graduado em Desenvolvimento de Software Multiplataforma pela Fatec Jacareí</br>
+📍 Jacareí/SP - Brasil
 
-Atuo na área de Produto com foco em **Product Discovery, Product Delivery, análise de dados e evolução de produtos digitais orientados à experiência do usuário**.
-
-Tenho experiência trabalhando próximo de times de produto, negócio e engenharia, participando da definição, priorização e acompanhamento de soluções para marketplaces e e-commerces. Ao longo da minha trajetória, atuei em diferentes squads, contribuindo tanto na descoberta de problemas quanto na entrega de funcionalidades com impacto real para usuários e negócio.
-
-No dia a dia, também atuo em frentes mais técnicas e analíticas, como:
-- análises em SQL para tomada de decisão baseada em dados;
-- automações de processos utilizando n8n, GitHub e Slack;
-- entendimento e leitura de código para mapeamento de regras de negócio;
-- alinhamento entre stakeholders, produto e engenharia.
-
-Minha experiência prévia com e-commerce e TI me permite transitar bem entre áreas técnicas e estratégicas, facilitando comunicação, discovery e resolução de problemas com mais autonomia.
+🔗 Portfólio: https://omaurosantos.github.io/my-portfolio/</br>
+🔗 LinkedIn: https://linkedin.com/in/omaurosantos
 
 ---
 
-# 🧠 Tech & Product Stack
+## 🚀 Sobre mim
 
-## 🔹 Produto
-- Product Discovery & Delivery
-- Gestão de Backlog e Priorização
-- User Stories & Critérios de Aceitação
-- Roadmaps & Estratégia de Produto
-- KPIs, Métricas e Product Analytics
-- UX Research & Jornada do Usuário
-- Alinhamento entre Produto, Negócio e Engenharia
-- Metodologias Ágeis (Scrum/Kanban)
+Atuo na área de Produto com experiência em descoberta e entrega de produtos digitais, análise de dados, gestão de backlog e alinhamento entre negócio, tecnologia e usuários.
 
-## 🔹 Dados & Automação
-- SQL (Metabase)
-- Python
-- Dashboards & Data Analysis
-- Process Automation
-- n8n, GitHub Actions & Slack Integrations
-- Geração de Insights para Produto
+Ao longo da minha trajetória, trabalhei com marketplaces, e-commerce e plataformas SaaS, participando da definição, priorização e acompanhamento de iniciativas orientadas por dados.
 
-## 🔹 Desenvolvimento (noções)
-- Frontend: React
-- Backend: Node.js
-- Banco de Dados: PostgreSQL & MongoDB
-- Leitura e entendimento de código
-
-## 🔹 Ferramentas
-GitHub Projects • Notion • Metabase • Git/GitHub • Figma • Jira
+Também possuo experiência com SQL, automações utilizando n8n e análise de métricas para tomada de decisão.
 
 ---
 
-# 📌 Projetos em Destaque
+## 🧠 Principais Competências
 
-## 🔗 [Mentora](https://github.com/omaurosantos/Mentora)
-### IA para previsão de desempenho acadêmico e risco de evasão em Instituições de Ensino Superior
+**Produto**
 
-Atuei como **Product Owner** no projeto *Mentora*, uma solução de IA voltada para previsão de desempenho acadêmico e risco de evasão em Instituições de Ensino Superior.
+* Product Discovery
+* Product Delivery
+* Gestão de Backlog
+* User Stories
+* Critérios de Aceite
+* Roadmap
+* KPIs e OKRs
+* Product Analytics
 
-### Principais contribuições:
-- Definição do problema e entendimento das necessidades das instituições;
-- Estruturação e priorização do backlog do produto;
-- Criação de User Stories e Critérios de Aceitação;
-- Acompanhamento do desenvolvimento end-to-end;
-- Validação das entregas e testes funcionais;
-- Apoio na análise de dados e interpretação de resultados;
-- Comunicação e alinhamento com stakeholders.
+**Dados e Automação**
 
-Esse projeto fortaleceu minha experiência em:
-- Produto orientado por dados;
-- IA aplicada a negócios;
-- Análise preditiva;
-- Discovery e construção de MVP;
-- Integração entre produto, tecnologia e dados.
+* SQL
+* Metabase
+* Power BI
+* n8n
+* GitHub Projects
+* Slack Automations
 
----
+**Ferramentas**
 
-# 🌍 Sobre mim
-
-Fora do trabalho, gosto de viajar e explorar novos lugares de moto 🏍️  
-Curto tecnologia, produto, dados e tudo que envolve construir soluções que realmente geram impacto.
-
----
-
-# 💬 Vamos nos conectar?
-
-Sempre aberto para trocar ideias sobre:
-- Produto
-- Dados
-- Automação
-- IA aplicada
-- Tecnologia
-- E-commerce & Marketplace
-
-☕ E claro... um bom café também.
+* Jira
+* Confluence
+* Notion
+* Figma
+* Git & GitHub
 
 ---
 
-<div align="center">
+## 📌 Projetos em Destaque
 
-### ⭐️ Obrigado pela visita!
+### 🤖 ProconBot
 
-![Profile Views](https://komarev.com/ghpvc/?username=omaurosantos&color=blueviolet&style=for-the-badge)
+Chatbot para atendimento inicial de consumidores do Procon de Jacareí utilizando IA, RAG e WhatsApp.
 
-</div>
+Atuação como Product Owner e desenvolvedor, participando da definição do MVP, backlog, requisitos e acompanhamento da implementação.
+
+### 🎓 Mentora
+
+Plataforma voltada à prevenção da evasão no ensino superior.
+
+Atuação como Product Owner, conduzindo discovery, priorização, definição de requisitos e acompanhamento do desenvolvimento.
+
+---
+
+## 📫 Contato
+
+* LinkedIn: https://linkedin.com/in/omaurosantos
+* E-mail: [maurodopradosantos@gmail.com](mailto:maurodopradosantos@gmail.com)
+
+---
+
+⭐ Obrigado pela visita!
